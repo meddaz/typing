@@ -1,0 +1,17 @@
+body {
+    background:#222; 
+    color: #fff;
+}
+
+ h1 {
+    font-size:30px;
+ }
+
+
+
+#score {font-size:30px;}
+
+#correctScore {border:2px solid white; width: 100px; height: 100px;}
+
+#incorrect {border:2px solid white; width: 100px; height: 100px;}
+
